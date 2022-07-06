@@ -6,7 +6,6 @@ body {
     overflow-x: hidden;
     line-height: 1;
     font-weight: 400;
-    background-image: url("bgc%20(1).png");
 }
 
 @media (prefers-reduced-motion:no-preference) {
